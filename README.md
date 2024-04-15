@@ -7,26 +7,19 @@ My core skills and stacks include:
 ▪ JavaScript
 ▪ TypeScript
 ▪ React.js
-▪ React Native
+▪ Redux
 ▪ Next.js
 ▪ Vue.js
+▪ React Native
 ▪ Node.js
 ▪ Express.js
 ▪ Nest.js
-▪ HTML
-▪ CSS
-▪ Redux
 ▪ MySQL
 ▪ PostgreSQL
 ▪ MongoDB
 ▪ AWS
-▪ Object-Oriented Design
-▪ Database Design
-▪ REST API
-▪ eCommerce
 ▪ Firebase
 ▪ Git
-▪ Jira
-▪ Trello
+▪ Agile Methodologies
 
 I am committed to delivering exceptional results and exceeding client expectations. Let's collaborate and bring your project to life!
